@@ -18,7 +18,7 @@ A Python script developed to extract, analyze, and track virtual market data fro
 
 ## Setup and Usage
 1. Clone the repository:
-   `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git`
+   `git clone https://github.com/blr0708/Virtual-Economy-Analyzer.git`
 
 2. Install the required dependencies:
    `pip install -r requirements.txt`
